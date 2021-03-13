@@ -1,7 +1,7 @@
 <h3> Neon shop </h3>
 <hr>
-<i> a mobile shop that developed by using wordpress hooks .</i>
-<i> for run this app you need to do following : </i>
+<i> a mobile shop that developed by using wordpress hooks .</i><br>
+<i> for run this app you need to do following : </i><br>
 <ul>
 
 <li>download the wordpress</li>
